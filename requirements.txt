@@ -12,7 +12,7 @@ mysqlclient==1.4.6
 mysqlpy==8.0.12
 numpy==1.18.5
 pandas==1.0.4
-protobuf==3.12.2
+protobuf==3.15.0
 psycopg2==2.8.5
 PyMySQL==0.9.3
 pyparsing==2.4.7
