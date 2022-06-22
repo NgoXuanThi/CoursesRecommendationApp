@@ -10,7 +10,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 mysqlclient==1.4.6
 mysqlpy==8.0.12
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
 protobuf==3.12.2
 psycopg2==2.8.5
